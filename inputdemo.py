@@ -1,0 +1,7 @@
+#a = input ("Enter a number:")
+a = int(input("Enter a number:"))
+print("a = ",a+20)
+print("type of a = ",type(a))
+x = float(input("Enter a number:"))
+print("x = ",x+20)
+print("type of x = ",type(x))

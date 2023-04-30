@@ -1,0 +1,20 @@
+operators:operators are the special symbol which is use to perform specific operation on operands. For example +, -, *, / etc.
+
+type of operators:
+1)Arithmetic operators : +, -, *, /, %, //, **
+
+2)Relational operators : <, >, <=, >=, ==, !=
+3)Logical operators: and, or, not
+4)Bitwise operators: &, |, ^, ~, <<, >>
+5)Assignment operators: =, +=, -=, *=, /=, %=, //=, **=
+8)Ternary operators: [on_true] if [expression] else [on_false]
+9)membership operators : in, not in
+10)identity operators: is, is not
+
+
+single line comment: # comment
+multi line comment: ''' comment ''' or """ comment """
+
+''' 
+    
+'''    
